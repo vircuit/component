@@ -1,0 +1,11 @@
+[package]
+name = "component"
+version = "0.1.0"
+edition = "2021"
+description = "component"
+authors = ["Wei Caixin <weicaixin@qq.com>"]
+repository = "https://github.com/vircuit/component"
+license = "MIT"
+
+[dependencies]
+anyhow = "1.0"
